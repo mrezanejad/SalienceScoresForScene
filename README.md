@@ -18,6 +18,9 @@ To  gain  an  intuition  behind  these  perceptually  driven contour salience me
 
 
 ## Setup
+
+**NOTE** THIS CODE IS TESTED WITH MATLAB 2018b. Earlier version of MATLAB may not work with this package.
+
 To download the code, open a terminal and type:
 ```
 git clone https://github.com/mrezanejad/SalienceScoresForScene.git
