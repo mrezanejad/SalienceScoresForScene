@@ -18,7 +18,8 @@
 % -------------------------------------------------------------------------
 function compute_scence_salience(imFile)
 
-
+% add Libs to the path
+addpath(genpath('Libs'))
 
 
 % Tunning Parameters
